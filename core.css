@@ -1,0 +1,8 @@
+#wmd-input,
+[contenteditable] {
+    caret-color: blue;
+}
+
+#wmd-input::selection {
+    background: #D03E27;
+}
