@@ -8,7 +8,9 @@ This assistant helps when you use stackoverflow.
   #### Version 1.0
   
   tab:
+  
   1 - A tab in any positions.
+  
   2 - Indent for selected text.
 
 # License
